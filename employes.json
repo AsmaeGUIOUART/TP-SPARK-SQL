@@ -1,0 +1,6 @@
+[
+  {"id": 1,"name":"Ahmed","salary": 12000,"department": "dev"},
+  {"id": 2,"name":"Said","salary": 22000,"department": "big data"},
+  {"id": 3,"name":"Hajar","salary": 30000,"department": "dev"},
+  {"id": 4,"name":"Asmae","salary": 22000,"department": "big data"}
+]
